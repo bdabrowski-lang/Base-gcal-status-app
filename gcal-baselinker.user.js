@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         GCal Event → Baselinker
 // @namespace    http://tampermonkey.net/
-// @version      2.3
+// @version      2.4
 // @description  Odczytuje wszystkie aktywne zdarzenia z Google Calendar i wyświetla je w pływającym widgecie na Baselinker tickets.
 // @author       Bartłomiej Dąbrowski
 // @match        https://calendar.google.com/*
